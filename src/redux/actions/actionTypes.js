@@ -1,0 +1,4 @@
+export const SET_LOCATION = 'SET_LOCATION';
+export const WEATHER_FROM_COORDS = 'WEATHER_FROM_COORDS';
+export const SET_CITY = 'SET_CITY';
+export const WEATHER_FROM_CITY = 'WEATHER_FROM_CITY';
